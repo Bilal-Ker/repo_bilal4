@@ -1,1 +1,1 @@
-Commit para la captura2
+Edito este fichero desde otra rama
